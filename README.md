@@ -57,6 +57,7 @@
   server. Then you have to make a registration. You dont need actual working E-mail the verification is not turned on. 
   
     php artisan serve
+    
     npm run dev
   
   If there is problem you can run it with --forse at the end of the command or you can visit " https://devmarketer.io/learn/setup-laravel-project-cloned-github-com/ " 
