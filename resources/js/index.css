@@ -1,0 +1,46 @@
+/* This margin is for the box shadow to fit in.
+ The custom CSS is used on multiple components  */
+.main-app{
+    margin: 20px;
+}
+
+/* There start the first phase CSS */
+.phase-1{
+    display: block;
+    padding: 20px;
+    border: 1px solid black;
+    border-radius: 20px;
+    box-shadow: -22px 7px 30px -3px rgba(0,0,0,0.75);
+    margin-bottom: 40px;
+}
+.stack-name{
+    border: 1px solid black;
+    border-radius: 20px;
+    padding: 20px;
+    text-shadow: 2px 1px 2px lightseagreen;
+    box-shadow: 11px -30px 80px -60px rgba(0,0,0,0.78) inset;
+    
+}
+.phase{
+    margin: 20px;
+    font-size:x-large;
+    align-self: center;
+    position: relative;
+    left: 23%;
+    text-shadow: 1px 1px 2px rgb(235, 220, 154), 0 0 1em rgb(87, 226, 180), 0 0 0.2em rgb(85, 85, 233);
+}
+/* There start the second phase CSS */
+.add-new{
+    margin: 20px;
+    padding: 5px 30px 5px 30px;
+    box-shadow: -15px 4px 30px -6px rgba(0,0,0,0.75);
+}
+.lifo-list{
+    margin: 10px;
+    box-shadow: 13px -5px 16px -6px rgba(0,0,0,0.75);
+    border-radius: 20px;
+
+}
+.phase-2-btns{
+    display: flex;
+}
